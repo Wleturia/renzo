@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <h1>Bienvenido</h1>
+            <h1>Bienvenido Walter</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio maiores nihil obcaecati at et necessitatibus vero repudiandae sunt debitis quos?</p>
             <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
                 <div class="input-group mb-3">
